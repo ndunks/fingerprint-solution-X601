@@ -15,6 +15,8 @@ Solution X601 is a high-capacity biometric time attendance and door access contr
 - ZKTeco ZMM220
 - zkteco uface202
 - https://www.zkteco.co.id/product/zkteco-uface202/
+- https://zkteco.systems/en/product/uface202/
+
 ## Network
 
 ### Nmap Scan
