@@ -36,7 +36,7 @@ Nmap done: 1 IP address (1 host up) scanned in 2.56 seconds
 
 ### Telnet
 
-``
+```
 nc 192.168.18.176 23
 ��������
 Welcome to Linux (ZMM220) for MIPS
